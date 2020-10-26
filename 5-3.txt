@@ -1,6 +1,3 @@
 This isGitHub5-3！
-<<<<<<< HEAD
 changing！
-=======
 change！
->>>>>>> 4d2c5bd6c7546693bca9fd66c777de13345f03c4
